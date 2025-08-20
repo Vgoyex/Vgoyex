@@ -1,4 +1,4 @@
-### Hello👋, my name is Fernando and currently I am Jr Developer, working with Javascript/Node.js!
+### Hello👋, my name is Fernando and currently I am Jr Developer, working with Java/Spring!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-vieira-goya-3609aa231/)
 
