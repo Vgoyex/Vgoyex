@@ -1,5 +1,5 @@
 ### About Me 👋
-### I am Back-End Developer living in São Paulo, Brazil, with hands-on experience using C#/.NET, Node.js, and Java/Spring Boot. I`ve worked on internal products and custom client systems, always focusing on performance, clean code, and scalable software!
+### I am Back-End Developer, with hands-on experience using C#/.NET, Node.js, and Java/Spring Boot. I`ve worked on internal products and custom client systems, always focusing on performance, clean code, and scalable software!
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-vieira-goya-3609aa231/)
@@ -13,12 +13,12 @@
 ### Tech Stack 🚀
 <div>
     <ul>
-        <li>Back-End: Java (Spring Boot), C# (.NET), JavaScript (Node.js)</li>
-        <li>Databases: PostgreSQL, MongoDB</li>
-        <li>Messaging: RabbitMQ</li>
-        <li>DevOps: Docker, Git</li>
-        <li>Front-End: HTML5, CSS3, JavaScript</li>
-        <li>Principles & Practices: OOP, SOLID, REST APIs, API integrations, Scrum</li>
+        <li><h3>Back-End: Java (Spring Boot), C# (.NET), JavaScript (Node.js)</h3></li>
+        <li><h3>Databases: PostgreSQL, MongoDB</h3></li>
+        <li><h3>Messaging: RabbitMQ</h3></li>
+        <li><h3>DevOps: Docker, Git</h3></li>
+        <li><h3>Front-End: HTML5, CSS3, JavaScript</h3></li>
+        <li><h3>Principles & Practices: OOP, SOLID, REST APIs, API integrations, Scrum</h3></li>
     </ul>
 </div>
 
