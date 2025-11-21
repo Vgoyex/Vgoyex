@@ -1,5 +1,5 @@
 ### About Me 👋
-<h4>I am Back-End Developer, with hands-on experience using C#/.NET, Node.js, and Java/Spring Boot. I`ve worked on internal products and custom client systems, always focusing on performance, clean code, and scalable software!</h4>
+###I am Back-End Developer, with hands-on experience using C#/.NET, Node.js, and Java/Spring Boot. I`ve worked on internal products and custom client systems, always focusing on performance, clean code, and scalable software!
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-vieira-goya-3609aa231/)
