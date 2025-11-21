@@ -1,5 +1,5 @@
 ### About Me 👋
-### I am Back-End Developer, with hands-on experience using C#/.NET, Node.js, and Java/Spring Boot. I`ve worked on internal products and custom client systems, always focusing on performance, clean code, and scalable software!
+<h4>I am Back-End Developer, with hands-on experience using C#/.NET, Node.js, and Java/Spring Boot. I`ve worked on internal products and custom client systems, always focusing on performance, clean code, and scalable software!</h4>
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-vieira-goya-3609aa231/)
@@ -13,12 +13,12 @@
 ### Tech Stack 🚀
 <div>
     <ul>
-        <li><h3>Back-End: Java (Spring Boot), C# (.NET), JavaScript (Node.js)</h3></li>
-        <li><h3>Databases: PostgreSQL, MongoDB</h3></li>
-        <li><h3>Messaging: RabbitMQ</h3></li>
-        <li><h3>DevOps: Docker, Git</h3></li>
-        <li><h3>Front-End: HTML5, CSS3, JavaScript</h3></li>
-        <li><h3>Principles & Practices: OOP, SOLID, REST APIs, API integrations, Scrum</h3></li>
+        <li><h4>Back-End: Java (Spring Boot), C# (.NET), JavaScript (Node.js)</h4></li>
+        <li><h4>Databases: PostgreSQL, MongoDB</h4></li>
+        <li><h4>Messaging: RabbitMQ</h4></li>
+        <li><h4>DevOps: Docker, Git</h4></li>
+        <li><h4>Front-End: HTML5, CSS3, JavaScript</h4></li>
+        <li><h4>Principles & Practices: OOP, SOLID, REST APIs, API integrations, Scrum</h4></li>
     </ul>
 </div>
 
