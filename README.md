@@ -17,7 +17,7 @@
         <li>Databases: PostgreSQL, MongoDB</li>
         <li>Messaging: RabbitMQ</li>
         <li>DevOps: Docker, Git</li>
-        <li>Front-End (basic): HTML5, CSS3, JavaScript</li>
+        <li>Front-End: HTML5, CSS3, JavaScript</li>
         <li>Principles & Practices: OOP, SOLID, REST APIs, API integrations, Scrum</li>
     </ul>
 </div>
@@ -26,8 +26,7 @@
 
 ### Technologies 🖥️
 
-[![Blog](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-]() [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() 
+[![Blog](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white&style=for-the-badge)]() [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() 
 
 [![Blog](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]() [![Blog](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
